@@ -1,0 +1,1 @@
+# waybar-ext-fritzbox-ip
