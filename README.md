@@ -15,7 +15,7 @@
 Skip the 1. step if you have already a modules folder
 
 1. `mkdir -p ~/.config/waybar/modules/`
-2. `git clone https://github.com/jdbm8992/waybar-ext-fritzbox-ip.git`
+2. `git clone https://github.com/brodi1/waybar-ext-fritzbox-ip.git`
 3. `cd waybar-ext-fritzbox-ip`
 4. (Optional) change the IP address in the `fritz-ext-ip.sh` file if your local FritzBox IP **is not** 192.168.178.1
 5. `cp -r fritz-ext-ip.sh ~/.config/waybar/modules/`
