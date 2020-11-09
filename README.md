@@ -39,7 +39,7 @@ Skip the 1. step if you have already a modules folder
    }
    ```
 
-   
+
 
 ### To get it working:
 Just restart [sway](https://github.com/swaywm/sway) by pressing ***$mod+shift+c***
@@ -48,9 +48,8 @@ Just restart [sway](https://github.com/swaywm/sway) by pressing ***$mod+shift+c*
 
 ### Tested on:
 - Arch Linux
-- FritzBox 7490 v7.12
+- FritzBox 7490 [v7.12 & v7.21]
 
 ### Should also work on:
 - FreeBSD
 - and other FritzBox Routers
-
